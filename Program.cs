@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
 
-            Console.WriteLine("dit me thang trung ");
+            Console.WriteLine("Hello 2 ");
 
         }
     }
