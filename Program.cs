@@ -8,6 +8,8 @@
 
             Console.WriteLine("Hello 2 ");
 
+            Console.WriteLine("test");
+
         }
     }
 }
